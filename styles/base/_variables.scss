@@ -1,0 +1,66 @@
+:root {
+  --m4u-clr-primary: #be1622;
+  --m4u-clr-white: #fff;
+  --m4u-clr-black: #010101;
+  --m4u-clr-primary-light: #eefeff;
+  --m4u-clr-secondary: #1d1d1b;
+  --m4u-clr-secondary-light: #f4f1ff;
+  --m4u-clr-tertiary: #ff6600;
+  --m4u-clr-hover: #3699ff;
+  --m4u-clr-bg-gray: #f8f9fd;
+  --m4u-clr-header-bg: #fff;
+  --m4u-clr-footer-bg: #000b38;
+  --m4u-clr-footer-text: #fff;
+  --m4u-clr-shadow: #edf2ff;
+  --m4u-clr-shadow-two: #00000012;
+
+  // text colors
+  --m4u-clr-text-heading: #010101;
+  --m4u-clr-text-sub-heading: #4e4e4e;
+  --m4u-clr-text-body: #4e4e4e;
+
+  // heading font size
+  --m4u-font-size-h1: 64px;
+  --m4u-font-size-h1-md: 44px;
+  --m4u-font-size-h1-sm: 38px;
+
+  --m4u-font-size-h2: 52px;
+  --m4u-font-size-h2-md: 42px;
+  --m4u-font-size-h2-sm: 32px;
+
+  --m4u-font-size-h3: 42px;
+  --m4u-font-size-h3-md: 32px;
+  --m4u-font-size-h3-sm: 26px;
+
+  --m4u-font-size-h4: 32px;
+  --m4u-font-size-h4-md: 26px;
+  --m4u-font-size-h4-sm: 20px;
+
+  --m4u-font-size-h5: 22px;
+  --m4u-font-size-h5-md: 18px;
+  --m4u-font-size-h5-sm: 16px;
+
+  --m4u-font-size-h6: 18px;
+  --m4u-font-size-h6-md: 18px;
+  --m4u-font-size-h6-sm: 16px;
+
+  // paragraphs font size
+  --m4u-font-size-p1: 20px;
+  --m4u-font-size-p2: 18px;
+  --m4u-font-size-p3: 16px;
+  --m4u-font-size-p4: 14px;
+  --m4u-font-size-p5: 12px;
+
+  // custom font size
+  --m4u-font-size-c1: 20px;
+  --m4u-font-size-c2: 18px;
+  --m4u-font-size-c3: 16px;
+  --m4u-font-size-c4: 14px;
+  --m4u-font-size-c5: 12px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --m4u-clr-primary: blue;
+  }
+}

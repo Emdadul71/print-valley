@@ -1,0 +1,26 @@
+.blog_card_wrapper {
+  flex-grow: 1;
+  transition: box-shadow 0.65s, transform 0.65s;
+  transition-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+  .continue_reading {
+    transition: all 0.4s;
+  }
+  .right_arrow {
+    transform: scaleX(0) translateX(0);
+  }
+  &:hover {
+    .right_arrow {
+      transition: transform 0.3s cubic-bezier(0.2, 0.95, 0.25, 1);
+      transform: scaleX(1) translateX(-2.726em);
+      transform-origin: left center;
+    }
+    .left_arrow {
+      transform: scaleX(0);
+      transform-origin: left center;
+    }
+    .continue_reading {
+      transform: translateX(-2.727em);
+      transition: transform 0.3s cubic-bezier(0.2, 0.95, 0.25, 1);
+    }
+  }
+}

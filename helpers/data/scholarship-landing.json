@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Food Bank",
+    "description": "Scholarship programmes for international students are mainly offered through individual Australian universities. Hows:",
+    "imgSrc": "/misc/program-one.jpg",
+    "conclution": "We strongly advise taking into account both host and home country scholarship opportunities to be completely prepared. Even though you might have to spend a lot of time researching, it will be worthwhile when it makes paying for your study abroad programme a little easier.",
+    "detailLink": "/programs/food-bank",
+    "points": [
+      {
+        "title": "Food for Orphan Madrada Student:",
+        "desc": "At Charity Right, we already know that providing food is more than about feeding people. It’s about creating an environment where hunger tion."
+      },
+      {
+        "title": "Iftar Package",
+        "desc": "Awards are open to both U.S. and foreign students, and the degrees can be at either the master's or doctoral level. The scholarship will pay for the student's tuition, as well as provide a living stipend and a research allowance."
+      }
+    ]
+  },
+  {
+    "title": "Providing for Orphan",
+    "description": "Numerous prestigious scholarship opportunities are available at Canadian universities, public & private organizations. These can range from fully funded opportunities to partially funded or field-specific grants. Here are some general scholarships available for Bangladeshi students. This is, by the way, not a complete list. Hundreds of scholarships are available at a wide variety of Canadian universities. Finding the best choice requires researching available programmes at various universities.",
+    "imgSrc": "/misc/program-two.jpg",
+    "conclution": "Apart from these scholarships, there are thousands of scholarships available for international students from all over the world. Keep researching and you’ll find the best opportunity for yourself!",
+    "detailLink": "/programs/food-bank",
+    "points": [
+      {
+        "title": "Pierre Elliot Trudeau Foundation Scholarship",
+        "desc": "Doctoral candidates in the social sciences and humanities can receive up to CAD 40,000 each year for up to three years under this scholarship programme. It provides an additional CAD 20,000 to help with study abroad expenses, travel, and networking opportunities. The scholarship is a component of an educational initiative aimed at developing future leaders. Up to sixteen Ph.D. candidates per year are selected."
+      }
+    ]
+  },
+  {
+    "title": "Maternity Assistance Project",
+    "description": "Let's start by discussing who offers students financial aid if you wish to study in Germany on a scholarship. Many educational institutions provide their own scholarship programmes, and some of them even have money set aside for accepting international students. They are not the only source of scholarships, though! There is a possibility that you could be awarded a scholarship in Germany that is either fully or partially funded.",
+    "imgSrc": "/misc/program-three.jpg",
+    "conclution": "Germany offers some of the best scholarship opportunities for Bangladeshi students. Keep looking on the university websites and other organizations to find the best scholarship that suits you the best. ",
+    "detailLink": "/programs/food-bank",
+    "points": [
+      {
+        "title": "DAAD Scholarship in Germany",
+        "desc": "The 215 scholarships and financial opportunities offered by the DAAD to students from outside of Germany are extremely competitive and popular. The DAAD provides some of Germany's fully funded scholarship opportunities. Scholarships are typically dispersed on a monthly basis, with the current amounts going to graduate students at $922.69 and doctoral students at $1285.98. Scholarship durations are subject to the student's chosen field of study."
+      }
+    ]
+  },
+  {
+    "title": "Homeless Assistance Project",
+    "description": "Since each institution or organization has its own eligibility requirements, there are no standard guidelines or requirements for scholarships in Ireland. In general, it is based on academic achievement, language proficiency, and extracurricular activities.  The cost of education in Ireland can be high, however applying for a scholarship will reduce living expenses or tuition prices. Over 200 postgraduate scholarships with full funding for one year are offered by various departments, including the Irish Department of Foreign Affairs and Trade. Some available scholarships for Bangladeshi students are:",
+    "imgSrc": "/images/test.jpg",
+    "conclution": "You can investigate both merit-based and need-based rewards; just make sure you are aware of the eligibility requirements before you apply for any awards.",
+    "detailLink": "/programs/food-bank",
+    "points": [
+      {
+        "title": "The Walsh Fellowship",
+        "desc": "Awarded to postgraduate students who are actively engaged in projects that are important to the Teagasc Research and Knowledge Transfer Programme, primarily in the areas of agriculture, food, grazing animals, the environment, economic development, and rural development. It is made available to 30 students each year with a grant of €22,000 each."
+      }
+    ]
+  },
+  {
+    "title": "Teaching Quran",
+    "description": "It is well-known that higher education in the UK may be rather costly. Tuition and living costs in the UK are consistently higher than in other English-speaking countries. Despite this, the UK remains a popular destination for students from Bangladesh. UK universities provide a wide variety of scholarship opportunities for international students. Let’s look at some of the popular scholarships in UK for Bangladeshi students:",
+    "imgSrc": "/images/test.jpg",
+    "conclution": "No way is this a complete list! The majority of universities provide a wide variety of scholarships. Find out if any financial aid is offered by the universities you're considering attending.",
+    "detailLink": "/programs/food-bank",
+    "points": [
+      {
+        "title": "British Council Women in STEM Scholarships",
+        "desc": "It's possible that this scholarship is open to female students from Bangladesh at top universities in the UK who are working towards a master's degree in one of the STEM fields. The costs of things like tuition and living expenses, travel, visa fees, and medical insurance premiums will be covered by the scholarship. Additional support can be provided to mothers and other individuals who are responsible for the care of others."
+      }
+    ]
+  }
+]

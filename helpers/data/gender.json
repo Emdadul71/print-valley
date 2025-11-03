@@ -1,0 +1,31 @@
+[
+  {
+    "value": "MALE",
+    "label": "Male"
+  },
+
+  {
+    "value": "FEMALE",
+    "label": "Female"
+  },
+  {
+    "value": "OTHER",
+    "label": "Other"
+  },
+  {
+    "value": "TRANSGENDER",
+    "label": "Transgender"
+  },
+  {
+    "value": "NON_BINARY",
+    "label": "Non Binary"
+  },
+  {
+    "value": "GENDERQUEER",
+    "label": "Genderqueer"
+  },
+  {
+    "value": "PREFER-NOT-TO-SAY",
+    "label": "Prefer not to Say"
+  }
+]

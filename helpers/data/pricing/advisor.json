@@ -1,0 +1,27 @@
+[
+  {
+    "idx": "21434523-0cbd-45fb-93f0-96497e55a4d7",
+    "name": "Legal Advisors",
+    "type": "ADVISOR",
+    "membership": {
+      "yPrice": "99.99",
+      "mPrice": "9.99",
+      "eligibility": [
+        "Lawyer / Notary public",
+        "RCIC-IRB / RCIC / RISIA",
+        "Paralegals (Ontario only)"
+      ]
+    },
+    "membership_benefits": [
+      "Can access the practitioners' crowd, post, and comment",
+      "Can post and comment on any number of articles on the general user's blog",
+      "Will carry a special badge as your 'licensed title' for identification",
+      "Each article will carry your own business signature",
+      "Can see potential user's profile for quick evaluation and direct communication",
+      "Can communicate directly with potential users",
+      "No profit/commission sharing with the IMMILINK platform, only the membership fee",
+      "No profit sharing with the IMMILINK platform",
+      "No commission sharing with the IMMILINK platform"
+    ]
+  }
+]

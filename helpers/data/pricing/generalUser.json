@@ -1,0 +1,51 @@
+[
+  {
+    "idx": "d3614534-b8f5-4a66-8c2d-3651e166b2b6",
+    "name": "Trial (14 days)",
+    "type": "GENERALSTUDENT",
+    "membership": {
+      "mPrice": "0.00",
+      "yPrice": "0.00",
+      "eligibility": []
+    },
+    "membership_benefits": [
+      "Can read all the articles in full.",
+      "Can see the details of the profile and activities of all the legal advisors, so, you can compare them to find the right advisor.",
+      "Cannot comment"
+    ]
+  },
+  {
+    "idx": "04b1e2ea-65d6-42cd-8f14-002e98eedd3f",
+    "name": "Classic",
+    "type": "GENERALSTUDENT",
+    "membership": {
+      "mPrice": "2.99",
+      "yPrice": "29.99",
+      "eligibility": []
+    },
+    "membership_benefits": [
+      "Get access to the practitioners' crowd (read-only).",
+      "Can read (cannot create new) any post and comment on any number of the articles on the general user's blog.",
+      "Will carry a special badge as your 'Student' for identification.",
+      "No hidden fee to the IMMILINK platform except the membership fee.",
+      "Click for Sign-up"
+    ]
+  },
+  {
+    "idx": "e5ece1fd-d091-4722-8f12-8203b5650c25",
+    "name": "Premium",
+    "type": "GENERALSTUDENT",
+    "membership": {
+      "mPrice": "5.99",
+      "yPrice": "59.99",
+      "eligibility": []
+    },
+    "membership_benefits": [
+      "Can read all the articles in full.",
+      "Can comment on the articles.",
+      "Can see the details of the profile and activities of all the legal advisors, so you can compare them to find the right advisor.",
+      "Can submit your detailed profile for the initial consultation. It’s not just a resume, rather it’s almost all the corners your advisor needs to know about you to prescribe your possible pathway(s) to Canada.",
+      "Your profile will be shared in the pool of our legal advisors; they may reach out to you if they are interested in advising in your case."
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+.antd_select {
+  .ant-select-selector {
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .ant-select-selection-placeholder {
+    color: #4e4e4e; /* Your custom placeholder color */
+  }
+}
+
+.contact-collapse {
+  .ant-collapse-header {
+    background-color: #ffffff;
+    border-radius: 10px !important;
+  }
+  .ant-collapse-content-active {
+    border-top: none !important;
+  }
+  iframe {
+    width: 100%;
+    /* Add the desired CSS properties to change the color map */
+    filter: grayscale(
+      100%
+    ); /* Rotate the hue by 180 degrees, can adjust the value as needed */
+  }
+}
+
+:where(.css-dev-only-do-not-override-rzxtyw).ant-collapse {
+  background-color: #ffffff !important;
+}
+.antd_select_border_remove {
+  .ant-select-selector {
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .ant-select-selection-placeholder {
+    color: #4e4e4e I !important; /* Your custom placeholder color */
+    font-weight: 400 !important;
+  }
+}
+.course_filter_collapse {
+  .ant-collapse-header {
+    display: none !important;
+  }
+  .ant-collapse-content-box {
+    background: #ffffff;
+  }
+}
+
+// antd select global placeholder color
+.ant-select-selection-placeholder {
+  color: #9ca3af !important;
+  font-weight: 500;
+  font-size: 14px !important;
+}
+
+.ant-drawer {
+  .ant-drawer-header-title {
+    flex-direction: row-reverse !important;
+    gap: 16px;
+    .ant-drawer-close {
+      margin-right: 0 !important;
+    }
+  }
+}
+
+// course landing course filter
+.filtered-select {
+  .ant-select-selection-placeholder {
+    font-size: 12px !important; /* Adjust the font size as needed */
+  }
+}
+.job-filter-select {
+  .ant-select-selection-placeholder {
+    font-size: 12px !important;
+  }
+}
+
+.ant-modal-header {
+  margin-bottom: 0 !important;
+}
+
+.ant-select-dropdown
+  .ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
+  color: rgba(66, 66, 66, 0.88);
+  font-weight: 600;
+  background-color: #f8f9fd !important;
+}
+
+// .ant-pagination-item.ant-pagination-item-active {
+//   border: transparent;
+//   background-image: linear-gradient(
+//     to right,
+//     var(--m4u-clr-primary),
+//     var(--m4u-clr-secondary)
+//   );
+//   &:hover {
+//     border: transparent;
+//   }
+//   & a {
+//     color: #fff;
+//     &:hover {
+//       color: #fff;
+//     }
+//   }
+// }
+
+// job search select
+.job_search_select {
+  width: 100%;
+  .ant-select-selector {
+    box-shadow: none !important;
+    border: 1px solid transparent !important;
+  }
+  .ant-select-arrow {
+    display: none !important;
+  }
+  .ant-select-selection-placeholder {
+    color: #9ca3af !important;
+  }
+}
+
+.ant-select-single.ant-select-lg .ant-select-selector,
+.ant-select-multiple .ant-select-selector {
+  border-radius: 0px !important;
+}
+
+.custom-slider .ant-slider-mark-text {
+  display: none; /* Initially hide all mark text */
+}
+
+.custom-slider:hover .ant-slider-mark-text {
+  display: block; /* Display mark text on hover */
+}
+
+.exam_score {
+  .ant-input-lg,
+  .ant-input-group-addon {
+    border-radius: 0 !important;
+  }
+}
+
+.post_modal {
+  width: 630px !important;
+}
+
+.immi_tab .ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #be1622 !important;
+}
+.immi_tab .ant-tabs-tab-btn:hover {
+  color: #be1622 !important;
+}
+.immi_tab .ant-tabs-ink-bar {
+  background: #be1622 !important;
+}
+.immi_tab .ant-tabs-tab:hover {
+  color: #be1622 !important;
+}
+
+.profile_dropdown {
+  inset: auto auto 20px 62px !important;
+}
+
+.ant-select-single.ant-select-lg .ant-select-selector {
+  border-radius: 6px !important;
+}
+.ant-select-multiple .ant-select-selector {
+  border-radius: 6px !important;
+}
+
+// immi drawer
+.immi_drawer .ant-drawer-body {
+  padding: unset !important;
+}
+
+.ant-btn-primary {
+  background-color: #0b3a5d !important;
+}
+
+.media_insert_modal {
+  .ant-modal-content {
+    border-radius: 0 !important;
+  }
+}
+
+.ant-tree-treenode {
+  &:hover .node_delete {
+    display: block;
+  }
+}
+.node_delete {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: none;
+  &:hover {
+    color: red;
+  }
+}
+
+:where(.css-dev-only-do-not-override-gzal6t).ant-checkbox {
+  align-self: start !important;
+  margin-top: 4px !important;
+}
+
+:where(.css-dev-only-do-not-override-zl9ks2).ant-tree
+  .ant-tree-node-content-wrapper:hover {
+  background-color: transparent !important;
+}
+
+.ant-collapse-header-text {
+  font-size: 18px;
+  font-weight: 600;
+}

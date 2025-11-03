@@ -1,0 +1,40 @@
+[
+  {
+    "label": "College of Immigration and Citizenship Consultants",
+    "value": "College of Immigration and Citizenship Consultants"
+  },
+  {
+    "label": "Law Society of British Columbia",
+    "value": "Law Society of British Columbia"
+  },
+  { "label": "Law Society of Alberta", "value": "Law Society of Alberta" },
+  {
+    "label": "Law Society of Saskatchewan",
+    "value": "Law Society of Saskatchewan"
+  },
+  { "label": "Law Society of Manitoba", "value": "Law Society of Manitoba" },
+  { "label": "Law Society of Ontario", "value": "Law Society of Ontario" },
+  { "label": "Barreau du Québec", "value": "Barreau du Québec" },
+  {
+    "label": "Law Society of New Brunswick",
+    "value": "Law Society of New Brunswick"
+  },
+  {
+    "label": "Nova Scotia Barristers’ Society",
+    "value": "Nova Scotia Barristers’ Society"
+  },
+  {
+    "label": "Law Society of Prince Edward Island",
+    "value": "Law Society of Prince Edward Island"
+  },
+  {
+    "label": "Law Society of Newfoundland and Labrador",
+    "value": "Law Society of Newfoundland and Labrador"
+  },
+  { "label": "Law Society of Yukon", "value": "Law Society of Yukon" },
+  {
+    "label": "Law Society of the Northwest Territories",
+    "value": "Law Society of the Northwest Territories"
+  },
+  { "label": "Law Society of Nunavut", "value": "Law Society of Nunavut" }
+]

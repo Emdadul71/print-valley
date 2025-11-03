@@ -1,0 +1,20 @@
+[
+  {
+    "idx": "105bdb34-82ac-4f92-a1e7-eef6f527ad02",
+    "name": "Immigration / Law Students",
+    "type": "LAWSTUDENT",
+    "membership": {
+      "mPrice": "4.99",
+      "yPrice": "49.99",
+      "eligibility": [
+        "Graduate or current students (at least 60% of the program must be completed)"
+      ]
+    },
+    "membership_benefits": [
+      "Get access to the practitioners' crowd (read-only)",
+      "Can read (cannot create new) any post and comment on any number of articles on the general user's blog",
+      "Will carry a special badge as your 'Student' for identification",
+      "No hidden fee to the IMMILINK platform except the membership fee"
+    ]
+  }
+]

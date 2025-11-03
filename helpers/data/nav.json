@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Home",
+    "link": "/"
+  },
+  {
+    "title": "About Us",
+    "link": "/about-us"
+  },
+
+  {
+    "title": "Islamic Wall",
+    "link": "/islamic-wall"
+  },
+  {
+    "title": "Contact Us",
+    "link": "/contact-us"
+  }
+]

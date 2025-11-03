@@ -1,0 +1,35 @@
+[
+  {
+    "idx": "2ccb53b5-63fe-43b0-aab7-a5300047eeb4",
+    "createdAt": "2024-01-16T16:40:55.000Z",
+    "body": "This is a comment 2",
+    "author": {
+      "idx": "5de97dc0-fcfa-421a-bd71-dda545a1d096",
+      "avatar": null
+    },
+    "children": [
+      {
+        "idx": "5a3b5095-90a7-49d7-ac8a-71e52148c452",
+        "createdAt": "2024-01-16T16:41:25.000Z",
+        "body": "This is a comment",
+        "blog": 2,
+        "parent": 2,
+        "author": {
+          "idx": "5de97dc0-fcfa-421a-bd71-dda545a1d096",
+          "avatar": null
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "idx": "3a22fde0-a82c-4352-a40a-915334c3b358",
+    "createdAt": "2024-01-16T16:40:49.000Z",
+    "body": "This is a comment",
+    "author": {
+      "idx": "5de97dc0-fcfa-421a-bd71-dda545a1d096",
+      "avatar": null
+    },
+    "children": []
+  }
+]
