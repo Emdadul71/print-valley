@@ -120,7 +120,7 @@ export const ActiveAccount = () => {
                             errors?.activeToken &&
                             touched?.activeToken &&
                             "error"
-                          } !pr-11`}
+                          } pr-11`}
                           placeholder="Token"
                           value={values?.activeToken ?? ""}
                         />

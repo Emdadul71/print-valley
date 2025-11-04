@@ -11,4 +11,7 @@ export const store = configureStore({
     getDefaultMiddleware().concat(apiSlice.middleware),
 });
 
-setupListeners(store.dispatch);
+// Only setup listeners in browser environment
+if (typeof window !== "undefined") {
+  setupListeners(store.dispatch);
+}
